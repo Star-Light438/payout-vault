@@ -1,4 +1,4 @@
-https://star-light438.github.io/payout-vault/clickfunnels-2-0-api-error-401-fix.html
+https://star-light438.github.io/payout-vault/clickfunnels-20-api-error-401-fix.html
 https://star-light438.github.io/payout-vault/gohighlevel-webhook-timeout-504-solution.html
 https://star-light438.github.io/payout-vault/zapier-403-forbidden-webhook-error.html
 https://star-light438.github.io/payout-vault/make-com-connection-refused-111-fix.html
@@ -27,7 +27,7 @@ https://star-light438.github.io/payout-vault/webhook-id-duplication-prevention-s
 https://star-light438.github.io/payout-vault/crm-lead-import-error-field-mapping.html
 https://star-light438.github.io/payout-vault/zapier-formatter-step-error-fix.html
 https://star-light438.github.io/payout-vault/gohighlevel-mailgun-surprise-charges-fix.html
-https://star-light438.github.io/payout-vault/clickfunnels-2-0-upsell-logic-failure.html
+https://star-light438.github.io/payout-vault/clickfunnels-20-upsell-logic-failure.html
 https://star-light438.github.io/payout-vault/activecampaign-webhook-not-processing.html
 https://star-light438.github.io/payout-vault/hubspot-api-sync-conflict-resolved.html
 https://star-light438.github.io/payout-vault/salesforce-lead-mapping-logic-error.html
@@ -50,7 +50,7 @@ https://star-light438.github.io/payout-vault/linkedin-lead-gen-forms-api-failure
 https://star-light438.github.io/payout-vault/automated-lead-scoring-logic-mismatch.html
 https://star-light438.github.io/payout-vault/crm-pipeline-stage-auto-move-error.html
 https://star-light438.github.io/payout-vault/gohighlevel-calendar-sync-conflict-fix.html
-https://star-light438.github.io/payout-vault/clickfunnels-2-0-domain-ssl-error-automation.html
+https://star-light438.github.io/payout-vault/clickfunnels-20-domain-ssl-error-automation.html
 https://star-light438.github.io/payout-vault/smtp-relay-connection-timeout-fix.html
 https://star-light438.github.io/payout-vault/sendgrid-api-key-not-authorized-solution.html
 https://star-light438.github.io/payout-vault/amazon-ses-sandbox-escape-automation.html
@@ -68,7 +68,7 @@ https://star-light438.github.io/payout-vault/asana-task-sync-webhook-404-solutio
 https://star-light438.github.io/payout-vault/slack-notification-api-formatting-fix.html
 https://star-light438.github.io/payout-vault/discord-webhook-lead-alert-error.html
 https://star-light438.github.io/payout-vault/gohighlevel-reputation-management-fix.html
-https://star-light438.github.io/payout-vault/clickfunnels-2-0-smart-checkout-bug.html
+https://star-light438.github.io/payout-vault/clickfunnels-20-smart-checkout-bug.html
 https://star-light438.github.io/payout-vault/zapier-filter-step-logic-mismatch.html
 https://star-light438.github.io/payout-vault/delay-until-step-not-working-zapier.html
 https://star-light438.github.io/payout-vault/looped-automation-infinite-run-fix.html
