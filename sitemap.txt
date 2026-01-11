@@ -1,7 +1,7 @@
 https://star-light438.github.io/payout-vault/clickfunnels-20-api-error-401-fix.html
 https://star-light438.github.io/payout-vault/gohighlevel-webhook-timeout-504-solution.html
 https://star-light438.github.io/payout-vault/zapier-403-forbidden-webhook-error.html
-https://star-light438.github.io/payout-vault/make-com-connection-refused-111-fix.html
+https://star-light438.github.io/payout-vault/makecom-connection-refused-111-fix.html
 https://star-light438.github.io/payout-vault/json-data-mapping-mismatch-automation.html
 https://star-light438.github.io/payout-vault/webhook-payload-not-received-troubleshooting.html
 https://star-light438.github.io/payout-vault/rest-api-header-authentication-failure-2026.html
@@ -59,10 +59,10 @@ https://star-light438.github.io/payout-vault/multi-currency-calculation-zapier-f
 https://star-light438.github.io/payout-vault/subscription-cancellation-webhook-glitch.html
 https://star-light438.github.io/payout-vault/abandoned-cart-automation-timing-error.html
 https://star-light438.github.io/payout-vault/webflow-logic-webhook-not-triggering.html
-https://star-light438.github.io/payout-vault/bubble-io-api-connector-401-error.html
+https://star-light438.github.io/payout-vault/bubbleio-api-connector-401-error.html
 https://star-light438.github.io/payout-vault/flutterflow-to-firebase-lead-error.html
 https://star-light438.github.io/payout-vault/airtable-automation-script-timeout-fix.html
-https://star-light438.github.io/payout-vault/monday-com-api-column-update-failure.html
+https://star-light438.github.io/payout-vault/mondaycom-api-column-update-failure.html
 https://star-light438.github.io/payout-vault/trello-board-automation-logic-break.html
 https://star-light438.github.io/payout-vault/asana-task-sync-webhook-404-solution.html
 https://star-light438.github.io/payout-vault/slack-notification-api-formatting-fix.html
@@ -84,9 +84,9 @@ https://star-light438.github.io/payout-vault/pandas-csv-to-crm-cleaning-script.h
 https://star-light438.github.io/payout-vault/automated-lead-deduping-logic-python.html
 https://star-light438.github.io/payout-vault/cold-email-warmup-api-integration.html
 https://star-light438.github.io/payout-vault/lemlist-webhook-not-sending-activity.html
-https://star-light438.github.io/payout-vault/instantly-ai-api-connection-timeout.html
+https://star-light438.github.io/payout-vault/instantlyai-api-connection-timeout.html
 https://star-light438.github.io/payout-vault/smartlead-webhook-lead-mapping-fix.html
-https://star-light438.github.io/payout-vault/apollo-io-export-to-crm-automation.html
+https://star-light438.github.io/payout-vault/apolloio-export-to-crm-automation.html
 https://star-light438.github.io/payout-vault/zoominfo-api-sync-error-resolution.html
 https://star-light438.github.io/payout-vault/clearbit-enrichment-api-logic-failure.html
 https://star-light438.github.io/payout-vault/fullcontact-api-data-gap-solution.html
@@ -96,5 +96,5 @@ https://star-light438.github.io/payout-vault/sms-gateway-api-callback-error.html
 https://star-light438.github.io/payout-vault/ringcentral-webhook-lead-logging-fix.html
 https://star-light438.github.io/payout-vault/vonage-api-sms-automation-timeout.html
 https://star-light438.github.io/payout-vault/twilio-segment-logic-mapping-error.html
-https://star-light438.github.io/payout-vault/customer-io-segment-sync-glitch.html
+https://star-light438.github.io/payout-vault/customerio-segment-sync-glitch.html
 https://star-light438.github.io/payout-vault/intercom-lead-capture-webhook-fix.html
