@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+https://star-light438.github.io/payout-vault/sitemap.txt
